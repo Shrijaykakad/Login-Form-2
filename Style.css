@@ -11,11 +11,11 @@
 
 .project .card{
     position: absolute;
-    height: 90%;
+    height: 70%;
     width: 24%;
     background-color: aliceblue;
-    margin-left: 37%;
-    margin-top: 2%;
+    margin-left: 38%;
+    margin-top: 7.5%;
     border: none;
     padding: 0px 40px 0px 40px;
 }
